@@ -44,7 +44,8 @@ For further details on ScanCare, please visit our [Sampah+ Landing Page](https:/
 - **[Google Colab](https://colab.research.google.com/drive/18V4tLH0bb_NlioRpkO-g5LZbR1mRPMAw?usp=sharing)**
 
 ### ☁️ Cloud Computing
-- **Tech Stack**: 
+- **Tech Stack**: Cloudrun, Cloud Build, App Engine, Cloud SQL, Hapi
+- **[Backend Repositories](https://github.com/SampahPlus/backend-sampahplus)**
 
 ### 📱 Mobile Development
 - **Tech Stack**: Android SDK, Kotlin, Retrofit, Glide, Firebase.
@@ -52,5 +53,5 @@ For further details on ScanCare, please visit our [Sampah+ Landing Page](https:/
 
 ---
 
-### Need Help or Have Suggestions?
+### Need Assistance or Have Feedback?
 Email us at: [sampahplus@gmail.com](mailto:sampahplus@gmail.com)
