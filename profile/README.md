@@ -3,14 +3,14 @@
 <div align="center">
   <img src="/assets/logo.png" width="400" height="400"><br>
   <i>Sort it right, left it clean.</i>
+  <br>
+  <br>
+  <br>
 </div>
-<br>
-<br>
-Introducing an innovative application called "Sampah+" designed to empower waste management enthusiasts by providing a comprehensive solution for waste classification through image recognition technology. This groundbreaking tool enables users to accurately identify different types of waste and receive tailored recommendations for effective waste handling. By enhancing user awareness and knowledge in waste management practices, "Sampah+" aims to promote independent waste management, ultimately contributing to a sustainable environment and community well-being.
-<br>
-For further details on ScanCare, please visit our [Sampah+ Landing Page](https://landing-page-dot-sampahplus.et.r.appspot.com/) to delve deeper into what we offer.
 
-## Download Our App
+Introducing an innovative application called "Sampah+" designed to empower waste management enthusiasts by providing a comprehensive solution for waste classification through image recognition technology. This groundbreaking tool enables users to accurately identify different types of waste and receive tailored recommendations for effective waste handling. By enhancing user awareness and knowledge in waste management practices, "Sampah+" aims to promote independent waste management, ultimately contributing to a sustainable environment and community well-being.
+
+For further details on ScanCare, please visit our [Sampah+ Landing Page](https://landing-page-dot-sampahplus.et.r.appspot.com/) to delve deeper into what we offer.
 
 ## Feature 
 
