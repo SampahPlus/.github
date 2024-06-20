@@ -1,5 +1,6 @@
 # Sampah+
-
+Introducing an innovative application called "Sampah+" designed to empower waste management enthusiasts by providing a comprehensive solution for waste classification through image recognition technology. This groundbreaking tool enables users to accurately identify different types of waste and receive tailored recommendations for effective waste handling. By enhancing user awareness and knowledge in waste management practices, "Sampah+" aims to promote independent waste management, ultimately contributing to a sustainable environment and community well-being.
+ 
 For further details on ScanCare, please visit our [Sampah+ Landing Page](https://landing-page-dot-sampahplus.et.r.appspot.com/) to delve deeper into what we offer.
 
 ## Download Our App
@@ -15,11 +16,11 @@ For further details on ScanCare, please visit our [Sampah+ Landing Page](https:/
 ---
 
 ## Team Members
-### Bangkit 2023 Capstone Team C241-PS106
+### Bangkit 2024 Capstone Team C241-PS106
 
 | ID              | Name                               | Learning Path       |
 |:----------------|:-----------------------------------|:--------------------|
-| M322D4KX1881     | Laila Asrin | Machine Learning    |
+| M322D4KX1881     | Laila Asrin                       | Machine Learning    |
 | M322D4KX1984     | Najla Raihana Kamila              | Machine Learning    |
 | M006D4KX1616     | Hendrika Rosa Vincensia Kaluge    | Machine Learning    |
 | C297D4KY0447     | Gaharu Winanggya Binathara        | Cloud Computing     |
@@ -38,7 +39,7 @@ For further details on ScanCare, please visit our [Sampah+ Landing Page](https:/
 - **Tech Stack**: 
 
 ### 📱 Mobile Development
-- **Tech Stack**: Android SDK, Kotlin, Retrofit.
+- **Tech Stack**: Android SDK, Kotlin, Retrofit, Glide, Firebase.
 - **[App Repositories](https://github.com/SampahPlus/SampahPlusApp)**
 
 ---
