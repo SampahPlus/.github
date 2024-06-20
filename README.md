@@ -1,4 +1,4 @@
-# Scancare
+# Sampah+
 
 For further details on ScanCare, please visit our [Sampah+ Landing Page](https://landing-page-dot-sampahplus.et.r.appspot.com/) to delve deeper into what we offer.
 
@@ -15,7 +15,7 @@ For further details on ScanCare, please visit our [Sampah+ Landing Page](https:/
 ---
 
 ## Team Members
-### Bangkit 2023 Capstone Team CH2-PS184
+### Bangkit 2023 Capstone Team C241-PS106
 
 | ID              | Name                               | Learning Path       |
 |:----------------|:-----------------------------------|:--------------------|
@@ -31,15 +31,15 @@ For further details on ScanCare, please visit our [Sampah+ Landing Page](https:/
 
 ## Tech Stack
 
-### Machine Learning
+### 🤖 Machine Learning
 - **Tech Stack**: TensorFlow & Matplotlib
 
-### Cloud Computing
+### ☁️ Cloud Computing
 - **Tech Stack**: 
 
-### Mobile Development
+### 📱 Mobile Development
 - **Tech Stack**: Android SDK, Kotlin, Retrofit.
-- - **[App Repositories](https://github.com/SampahPlus/SampahPlusApp)**
+- **[App Repositories](https://github.com/SampahPlus/SampahPlusApp)**
 
 ---
 
