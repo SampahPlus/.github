@@ -12,6 +12,8 @@ Introducing an innovative application called "Sampah+" designed to empower waste
 
 For further details on ScanCare, please visit our [Sampah+ Landing Page](https://landing-page-dot-sampahplus.et.r.appspot.com/) to delve deeper into what we offer.
 
+You can also click [this](https://drive.google.com/file/d/19HJZ5R9SDqvL-Tj29Y62GkxrhYUsp3AF/view?usp=sharing) to watch the demo.
+
 ## Feature 
 
 | Main Features                | Description                                                                                                              |
@@ -41,7 +43,7 @@ For further details on ScanCare, please visit our [Sampah+ Landing Page](https:/
 
 ### 🤖 Machine Learning
 - **Tech Stack**: TensorFlow & Matplotlib
-- **[Repositoy](https://github.com/SampahPlus/Machine_Learning-SampahPlus)**
+- **[ML Repositoy](https://github.com/SampahPlus/Machine_Learning-SampahPlus)**
 
 ### ☁️ Cloud Computing
 - **Tech Stack**: Cloudrun, Cloud Build, App Engine, Cloud SQL, Hapi
