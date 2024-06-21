@@ -1,9 +1,16 @@
 # Sampah+
-Introducing an innovative application called "Sampah+" designed to empower waste management enthusiasts by providing a comprehensive solution for waste classification through image recognition technology. This groundbreaking tool enables users to accurately identify different types of waste and receive tailored recommendations for effective waste handling. By enhancing user awareness and knowledge in waste management practices, "Sampah+" aims to promote independent waste management, ultimately contributing to a sustainable environment and community well-being.
- 
-For further details on ScanCare, please visit our [Sampah+ Landing Page](https://landing-page-dot-sampahplus.et.r.appspot.com/) to delve deeper into what we offer.
 
-## Download Our App
+<div align="center">
+  <img src="/assets/logo.png" width="400" height="400"><br>
+  <i>Sort it right, left it clean.</i>
+  <br>
+  <br>
+  <br>
+</div>
+
+Introducing an innovative application called "Sampah+" designed to empower waste management enthusiasts by providing a comprehensive solution for waste classification through image recognition technology. This groundbreaking tool enables users to accurately identify different types of waste and receive tailored recommendations for effective waste handling. By enhancing user awareness and knowledge in waste management practices, "Sampah+" aims to promote independent waste management, ultimately contributing to a sustainable environment and community well-being.
+
+For further details on ScanCare, please visit our [Sampah+ Landing Page](https://landing-page-dot-sampahplus.et.r.appspot.com/) to delve deeper into what we offer.
 
 ## Feature 
 
@@ -34,9 +41,11 @@ For further details on ScanCare, please visit our [Sampah+ Landing Page](https:/
 
 ### 🤖 Machine Learning
 - **Tech Stack**: TensorFlow & Matplotlib
+- **[Repositoy](https://github.com/SampahPlus/Machine_Learning-SampahPlus)**
 
 ### ☁️ Cloud Computing
-- **Tech Stack**: 
+- **Tech Stack**: Cloudrun, Cloud Build, App Engine, Cloud SQL, Hapi
+- **[Backend Repositories](https://github.com/SampahPlus/backend-sampahplus)**
 
 ### 📱 Mobile Development
 - **Tech Stack**: Android SDK, Kotlin, Retrofit, Glide, Firebase.
@@ -44,5 +53,5 @@ For further details on ScanCare, please visit our [Sampah+ Landing Page](https:/
 
 ---
 
-### Need Help or Have Suggestions?
+### Need Assistance or Have Feedback?
 Email us at: [sampahplus@gmail.com](mailto:sampahplus@gmail.com)
