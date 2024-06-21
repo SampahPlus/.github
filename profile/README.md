@@ -1,7 +1,7 @@
 # Sampah+
 
 <div align="center">
-  <img src="/assets/logo.png" width="400" height="400"><br>
+  <img src="/assets/previewapp.png" width="" height=""><br>
   <i>Sort it right, left it clean.</i>
   <br>
   <br>
